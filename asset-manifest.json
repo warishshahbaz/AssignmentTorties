@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AssignmentTorties/static/css/main.c951bc86.css",
+    "main.js": "/AssignmentTorties/static/js/main.3e656c99.js",
+    "index.html": "/AssignmentTorties/index.html",
+    "main.c951bc86.css.map": "/AssignmentTorties/static/css/main.c951bc86.css.map",
+    "main.3e656c99.js.map": "/AssignmentTorties/static/js/main.3e656c99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c951bc86.css",
+    "static/js/main.3e656c99.js"
+  ]
+}
